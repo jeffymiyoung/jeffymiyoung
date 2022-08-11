@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jeffrey Young
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/Hi+there+👋+Welcome+to+my+GitHub=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/Welcome+to+my+GitHub=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **jeffymiyoung/jeffymiyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
