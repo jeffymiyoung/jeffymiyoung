@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+~+Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=~+Welcome+to+my+GitHub+~)](https://git.io/typing-svg)
 
 <!--
 **jeffymiyoung/jeffymiyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
